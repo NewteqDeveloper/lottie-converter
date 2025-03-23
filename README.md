@@ -1,8 +1,10 @@
 # UPDATE COMING
 #####################
+
 I need to make an update to the readme for how to get this to work on debian 12 in 2025.
 
 I don't have time now, but the libgif-dev from apt has a different signature. So I'll update this when I get a chance and maybe make a releaase for it
+
 #####################
 
 ## LottieConverter
