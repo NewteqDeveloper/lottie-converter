@@ -2,8 +2,6 @@
 
 ## March 2025
 
-Testing Codelantis
-
 The original source for this can be found [here](https://github.com/sot-tech/LottieConverter). It's a great tool to use for converting images between lottie format. This was particularily necessary for myself in setting up a `[matrix]` server. The matrix server that I was setting this up on, was a debian 12 server. There were some modifications that were necessary as the original one's last update was 2021. The libraries used by debian were changed, and this source did not build on the server itself either. All changes that have been done so far, are simply to address this requirement
 
 # Original Source README
