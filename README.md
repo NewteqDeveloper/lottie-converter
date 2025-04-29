@@ -1,3 +1,6 @@
+# Migrated
+My fork has moved: https://codeberg.org/newteq/lottie-converter
+
 ## LottieConverter
 Simple lottie (telegram animated sticker) converter.
 
